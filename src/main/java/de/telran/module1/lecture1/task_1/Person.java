@@ -21,14 +21,6 @@ public class Person {
         System.out.println("say: Hello!");
     }
 
-    public String getFullName() {
-        return fullName;
-    }
-
-    public int getAge() {
-        return age;
-    }
-
     public void setFullName(String fullName) {
         this.fullName = fullName;
     }
