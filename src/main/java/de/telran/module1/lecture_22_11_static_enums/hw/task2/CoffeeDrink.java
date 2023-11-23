@@ -12,7 +12,6 @@ public enum CoffeeDrink {
     VIENNA_COFFEE("Венский кофе - кофе с взбитыми сливками и шоколадной посыпкой."),
     AFFOGATO("Аффогато - шарик мороженого, политый эспрессо.");
 
-//    public static CoffeeDrink coffeType;
     private final String description;
 
     CoffeeDrink(String description) {
