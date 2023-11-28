@@ -1,4 +1,4 @@
-package de.telran.module2.lesson_2023_11_27_arrays.hw;
+package de.telran.module2.lesson_2023_11_27_arrays.hw.task_1;
 
 public class DynamicIntArray {
 
