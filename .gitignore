@@ -4,6 +4,10 @@ target/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
+<<<<<<< HEAD
+=======
+.idea/
+>>>>>>> 175092a30bf010fd3ead724c7af36cfd36939979
 .idea/modules.xml
 .idea/jarRepositories.xml
 .idea/compiler.xml
@@ -35,7 +39,11 @@ build/
 .vscode/
 
 ### Mac OS ###
+<<<<<<< HEAD
 .DS_Store
 
 ### Repo ###
 /_220823Practice
+=======
+.DS_Store
+>>>>>>> 175092a30bf010fd3ead724c7af36cfd36939979
