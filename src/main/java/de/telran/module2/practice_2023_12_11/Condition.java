@@ -1,4 +1,4 @@
-package org.example._2023_12_11;
+package de.telran.module2.practice_2023_12_11;
 
 public enum Condition {
     NEW,

@@ -1,8 +1,5 @@
-package org.example._2023_12_11;
+package de.telran.module2.practice_2023_12_11;
 
-import lombok.ToString;
-
-@ToString
 public class Library {
     private String address;
     private long bookNumbers;

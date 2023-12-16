@@ -1,11 +1,9 @@
-package org.example._2023_12_11;
+package de.telran.module2.practice_2023_12_11;
 
 import com.github.javafaker.Faker;
-import lombok.experimental.UtilityClass;
 
 import java.util.Random;
 
-@UtilityClass
 public class Generator {
     private static final Faker FAKER = new Faker();
     private static final Random RANDOM = new Random();

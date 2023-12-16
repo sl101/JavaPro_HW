@@ -1,12 +1,5 @@
-package org.example._2023_12_11;
+package de.telran.module2.practice_2023_12_11;
 
-import lombok.Getter;
-import lombok.Setter;
-import lombok.ToString;
-
-@Getter
-@Setter
-@ToString
 public class Book {
     private String author;
     private String title;

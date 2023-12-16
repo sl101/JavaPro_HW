@@ -1,4 +1,4 @@
-package org.example._2023_12_11;
+package de.telran.module2.practice_2023_12_11;
 
 public class Handler {
     /** 1. Вывести все адреса библиотек*/
