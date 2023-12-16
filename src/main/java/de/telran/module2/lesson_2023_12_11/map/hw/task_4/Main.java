@@ -14,6 +14,7 @@ public class Main {
     public static void main(String[] args) {
         String[] words = {"student", "students", "dog", "god", "cat", "act", "flow", "wolf"};
 
+        // TODO: not finished now
         for (String word: words){
             String[] spitedWord = word.split("");
             Arrays.sort(spitedWord); // Сортируем массив символов
